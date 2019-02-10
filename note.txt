@@ -1,0 +1,7 @@
+CREATE DATABASE CAR_WASHING;
+GO;
+
+Run CAR_WASHING.sql
+
+username: admin
+password: 123
